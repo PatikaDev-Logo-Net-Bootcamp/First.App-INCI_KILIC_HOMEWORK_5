@@ -1,5 +1,5 @@
 # First.App-INCI_KILIC_HOMEWORK_5
-INCI_KILIC_HOMEWORK_5
+
 
 İsterler;
 
