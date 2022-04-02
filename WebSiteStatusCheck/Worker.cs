@@ -58,7 +58,7 @@ namespace BackgroundWorker
                     postService.AddPost(item);
                 }
 
-                await Task.Delay(1000, stoppingToken);
+                await Task.Delay(60000, stoppingToken);
                 // worker hangi aralýklarla çalýþacak onu ayarlýyorum
             }
         }
